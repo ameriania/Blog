@@ -1,4 +1,4 @@
 # Blog
 前端博客@知乎:前端微刊
 
-关于 md 文章,由于图片都存于知乎的服务器,想看文章中的图片的朋友,可以对应去到知乎搜寻对应的文章
+- [React 布局型组件的 TypeComponent模式](https://zhuanlan.zhihu.com/p/37218238)
